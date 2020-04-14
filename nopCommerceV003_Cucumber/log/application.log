@@ -1,0 +1,44 @@
+2020-04-13 15:44:34,155 [main] INFO nopComerce - *******Launching browser*************
+2020-04-13 15:44:34,714 [main] INFO nopComerce - *******Openning the URL*************
+2020-04-13 15:44:39,877 [main] INFO nopComerce - *******Providing login details*************
+2020-04-13 15:44:51,858 [main] INFO nopComerce - *******login passed*************
+2020-04-13 15:44:56,909 [main] INFO nopComerce - *******login passed*************
+2020-04-13 15:45:03,061 [main] INFO nopComerce - *******closing browser*************
+2020-04-13 15:45:14,072 [main] INFO nopComerce - *******Launching browser*************
+2020-04-13 15:45:14,082 [main] INFO nopComerce - *******Openning the URL*************
+2020-04-13 15:45:21,832 [main] INFO nopComerce - *******Providing login details*************
+2020-04-13 15:45:33,189 [main] INFO nopComerce - *******login passed*************
+2020-04-13 15:45:37,983 [main] INFO nopComerce - *******login passed*************
+2020-04-13 15:45:43,552 [main] INFO nopComerce - *******closing browser*************
+2020-04-13 15:45:54,360 [main] INFO nopComerce - *******Launching browser*************
+2020-04-13 15:45:54,395 [main] INFO nopComerce - *******Openning the URL*************
+2020-04-13 15:45:58,719 [main] INFO nopComerce - *******Providing login details*************
+2020-04-13 15:46:02,882 [main] INFO nopComerce - *******login failed*************
+2020-04-14 17:03:56,823 [main] INFO nopComerce - *******Launching browser*************
+2020-04-14 17:03:57,542 [main] INFO nopComerce - *******Openning the URL*************
+2020-04-14 17:04:04,247 [main] INFO nopComerce - *******Providing login details*************
+2020-04-14 17:04:16,697 [main] INFO nopComerce - *******login passed*************
+2020-04-14 17:04:21,806 [main] INFO nopComerce - *******login passed*************
+2020-04-14 17:04:28,533 [main] INFO nopComerce - *******closing browser*************
+2020-04-14 17:04:40,522 [main] INFO nopComerce - *******Launching browser*************
+2020-04-14 17:04:40,531 [main] INFO nopComerce - *******Openning the URL*************
+2020-04-14 17:04:45,478 [main] INFO nopComerce - *******Providing login details*************
+2020-04-14 17:04:56,848 [main] INFO nopComerce - *******login passed*************
+2020-04-14 17:05:02,257 [main] INFO nopComerce - *******login passed*************
+2020-04-14 17:05:07,543 [main] INFO nopComerce - *******closing browser*************
+2020-04-14 17:05:20,130 [main] INFO nopComerce - *******Launching browser*************
+2020-04-14 17:05:20,135 [main] INFO nopComerce - *******Openning the URL*************
+2020-04-14 17:05:25,211 [main] INFO nopComerce - *******Providing login details*************
+2020-04-14 17:05:30,062 [main] INFO nopComerce - *******login failed*************
+2020-04-14 17:26:24,803 [main] INFO nopComerce - *******Launching browser*************
+2020-04-14 17:26:24,866 [main] INFO nopComerce - *******Openning the URL*************
+2020-04-14 17:26:33,817 [main] INFO nopComerce - *******Providing login details*************
+2020-04-14 17:26:43,267 [main] INFO nopComerce - *******login passed*************
+2020-04-14 17:26:51,629 [main] INFO nopComerce - *******login passed*************
+2020-04-14 17:26:58,272 [main] INFO nopComerce - *******closing browser*************
+2020-04-14 17:49:16,305 [main] INFO nopComerce - *******Launching browser*************
+2020-04-14 17:49:16,414 [main] INFO nopComerce - *******Openning the URL*************
+2020-04-14 17:49:21,553 [main] INFO nopComerce - *******Providing login details*************
+2020-04-14 17:49:32,244 [main] INFO nopComerce - *******login passed*************
+2020-04-14 17:49:37,862 [main] INFO nopComerce - *******login passed*************
+2020-04-14 17:49:43,675 [main] INFO nopComerce - *******closing browser*************
